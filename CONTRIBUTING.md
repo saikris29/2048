@@ -1,4 +1,4 @@
-# Contributing (updated)
+# Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request.
 
 Please follow the house rules to have a bigger chance of your contribution being merged.
